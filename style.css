@@ -1,0 +1,37 @@
+body {
+   font-family: 'Montserrat'; 
+   margin: 0px; 
+   background-image: url(./b_w\ .png);
+   background-size: cover;
+   
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    letter-spacing: normal;
+}
+
+.menu {
+    background-color: #1d1c1c;
+    text-align: center; 
+    text-decoration: none;
+}
+
+.words {
+    width: 100px;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+}    
+
+h2 {
+    text-align: center;
+}
+#aviso {
+    text-align: center; 
+}
+
+.quemsou {
+
+}
